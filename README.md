@@ -1,2 +1,2 @@
 # Calculator CSharp
- Simple beginners project
+ A simple beginner's project made to brush up on the fundamentals.
